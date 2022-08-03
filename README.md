@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MajdKouraitby
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Computer Sience
